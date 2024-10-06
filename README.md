@@ -32,7 +32,7 @@ Python 3.6 and packages version:
 
 ### 3.1 Framework
 
-![](F:\user\Documents\1Linda\paper\forward\code\TECM-ChI\model\model.png)
+![模型架构](https://github.com/Fated-2/TECM-ChI/blob/main/model/model.png)
 
 ### 3.2 Dataset
 
